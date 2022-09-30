@@ -9,3 +9,7 @@ OU
 <H1> AAAA </H1>
 <p> paragrafo
 <h2> sub titulo
+<!doctype>
+<html>
+<head>
+<body>
