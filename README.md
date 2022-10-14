@@ -11,5 +11,5 @@ OU
 <h2> sub titulo
 <!doctype>
 <html>
-<head>
-<body>
+head{}
+body{}
